@@ -2,7 +2,7 @@
 
 🌱 I’m currently practicing data structures and algorithms and taking the AWS Cloud Practitioner certification course.  
 
-👨‍💻 All of my projects are available at mrmcpat.github.io
+👨‍💻 All of my projects are available at 
 
 📫 How to reach me danchan020@gmail.com
 
@@ -34,6 +34,6 @@ Connect with me on :<br>
   ---
   ### My Stats : 
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danchan020&theme=dark&background=000000)](https://git.io/streak-stats)
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danchan020&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danchan020&theme=dark" alt="mrmcpat" /></div>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danchan020&show_icons=true&locale=en&layout=compact&theme=dark" alt="mrmcpat" /></div>
