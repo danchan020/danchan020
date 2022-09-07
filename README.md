@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Daniel Chan</h2>
-<h3 align="center"> I am a Software Engineer / Aspiring Web3 Developer looking to relocate to NYC!</h3>
+<h3 align="center"> I am a Software Engineer / Aspiring Web3 Developer </h3>
 
 
 🌱 I’m currently practicing data structures and algorithms and taking the AWS Cloud Practitioner certification course 
