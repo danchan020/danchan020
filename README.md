@@ -4,14 +4,14 @@
 
 🌱 I’m currently practicing data structures and algorithms and taking the AWS Cloud Practitioner certification course 
 
-👨‍💻 All of my projects are available at <a target="_blank" href="https://www.danielchan.dev"> danielchan.dev </a>
+👨‍💻 All of my projects are available at <a href="https://www.danielchan.dev"> danielchan.dev </a>
 
 📫 How to reach me danchan020@gmail.com
 
 ⚡ Fun fact: I enjoy playing basketball and working out when I am not coding :) 
 
 Connect with me on :<br>
-  <a href="https://www.linkedin.com/in/danielchan-/" target="_blank">
+  <a href="https://www.linkedin.com/in/danielchan-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
