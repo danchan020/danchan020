@@ -4,7 +4,7 @@
 
 🌱 I’m currently practicing data structures and algorithms and taking the AWS Cloud Practitioner certification course 
 
-👨‍💻 All of my projects are available at (portfolio link when ready)
+👨‍💻 All of my projects are available at <a href="danielchan.dev"> danielchan.dev </a>
 
 📫 How to reach me danchan020@gmail.com
 
