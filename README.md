@@ -11,7 +11,7 @@
 ⚡ Fun fact: I enjoy playing basketball and working out when I am not coding :) 
 
 Connect with me on :<br>
-  <a href="https://www.linkedin.com/in/danielchan-/">
+  <a href="https://www.linkedin.com/in/danielchan-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
