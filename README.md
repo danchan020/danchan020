@@ -36,6 +36,6 @@ Connect with me on :<br>
   ---
   ### My Stats : 
   
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danchan020&theme=dark" alt="mrmcpat" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danchan020&theme=dark" alt="danielc" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danchan020&show_icons=true&locale=en&layout=compact&theme=dark" alt="mrmcpat" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danchan020&show_icons=true&locale=en&layout=compact&theme=dark alt="danielc" /></div>
