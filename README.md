@@ -2,7 +2,7 @@
 <h3 align="center"> I am a Software Engineer / Aspiring Web3 Developer </h3>
 
 
-🌱 I’m currently practicing data structures and algorithms and taking the AWS Cloud Practitioner certification course 
+🌱 I’m currently practicing data structures and algorithms and working on a personal project with React Native 
 
 👨‍💻 All of my projects are available at <a href="https://www.danielchan.dev"> danielchan.dev </a>
 
