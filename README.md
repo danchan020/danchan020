@@ -6,9 +6,9 @@
 
 👨‍💻 All of my projects are available at <a href="https://www.danielchan.dev"> danielchan.dev </a>
 
-📫 How to reach me danchan020@gmail.com
+📫 Reach me here to connect or collaborate: danchan020@gmail.com
 
-⚡ Fun fact: I enjoy playing basketball and working out when I am not coding :) 
+⚡ Fun fact: I love the outdoors and basketball is my favorite sport! :) 
 
 Connect with me on :<br>
   <a href="https://www.linkedin.com/in/danielchan-/">
