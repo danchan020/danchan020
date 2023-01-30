@@ -8,7 +8,7 @@
 
 📫 Reach me here to connect or collaborate: danchan020@gmail.com
 
-⚡ Fun fact: I love the outdoors and basketball is my favorite sport! :) 
+⚡ Fun fact: I love going on hikes and basketball is my favorite sport to play/watch! :) 
 
 Connect with me on :<br>
   <a href="https://www.linkedin.com/in/danielchan-/">
