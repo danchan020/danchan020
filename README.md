@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Daniel Chan</h2>
-<h6 align="center"> I am a Software Engineer; I recently completed Flatiron's SWE bootcamp and am seeking my first junior dev role! </h3>
+<h5 align="center"> I am a Software Engineer; I recently completed Flatiron's SWE bootcamp and am seeking my first junior dev role! </h3>
 
 
 🌱 I’m currently practicing data structures and algorithms and working on a personal project with React Native 
