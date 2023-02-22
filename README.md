@@ -8,8 +8,7 @@
 
 📫 Reach me here to connect or collaborate: danchan020@gmail.com
 
-⚡ Fun fact: I love going on hikes and basketball is my favorite sport to play/watch! :) 
-
+⚡ Fun fact: My motivation for diving into software development is to acquire the ability to build impactful products that disrupt the status quo, and be at the forefront of understanding the latest tech innovations.
 Connect with me on :<br>
   <a href="https://www.linkedin.com/in/danielchan-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
