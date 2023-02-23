@@ -8,7 +8,7 @@
 
 📫 Reach me here to connect or collaborate: danchan020@gmail.com
 
-⚡ Fun fact: My motivation for diving into software development is to acquire the ability to build impactful products that disrupt the status quo, and be at the forefront of understanding the latest tech innovations. <br>
+⚡ Fun fact: My motivation for diving into software development is to acquire the ability to build impactful applications that disrupt the status quo, and be at the forefront of understanding the latest tech innovations. <br>
 
 Connect with me on :<br>
   <a href="https://www.linkedin.com/in/danielchan-/">
