@@ -2,7 +2,7 @@
 <h4 align="center"> I am a Software Engineer; I recently completed Flatiron's SWE bootcamp and am seeking my first junior dev role! </h3>
 
 
-🌱 I’m currently practicing data structures and algorithms and working on a personal project with React Native 
+🌱 I’m currently practicing data structures and algorithms and getting familiar with new technologies 
 
 👨‍💻 All of my projects are available at <a href="https://www.danielchan.dev"> danielchan.dev </a>
 
