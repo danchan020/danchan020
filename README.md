@@ -4,7 +4,7 @@
 
 🌱 I’m currently practicing data structures and algorithms and getting familiar with new technologies 
 
-👨‍💻 All of my projects are available at <a href="https://www.danielchan.dev"> danielchan.dev </a>
+👨‍💻 Some of my projects are available at <a href="https://www.danielchan.dev"> danielchan.dev </a>
 
 📫 Reach me here to connect or collaborate: danchan020@gmail.com
 
