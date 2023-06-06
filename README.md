@@ -2,6 +2,7 @@
 <h4 align="center"> I am a Software Engineer </h4>
 <h5 align="center"> Seeking to build meaningful software with a team that is not afraid to get creative and push the boundaries of innovation! </h5>
 
+<br>
 
 🌱 I’m currently practicing data structures and algorithms and getting familiar with new technologies 
 
