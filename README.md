@@ -1,6 +1,7 @@
 <h2 align="center"> Hi 👋, I'm Daniel Chan</h2>
-<h4 align="center"> I am a Software Engineer; 
-  <br> Seeking to build meaningful software with a team that is not afraid to get creative and push the boundaries of innovation! </h4>
+<h4 align="center"> I am a Software Engineer </h4>
+  <br>
+  <h3> Seeking to build meaningful software with a team that is not afraid to get creative and push the boundaries of innovation! </h3>
 
 
 🌱 I’m currently practicing data structures and algorithms and getting familiar with new technologies 
