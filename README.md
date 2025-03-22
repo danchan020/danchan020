@@ -1,6 +1,5 @@
 <h2 align="center"> Hi there 👋, I'm Daniel</h2>
 <h4 align="center"> Software Dev </h4>
-<h5 align="center"> Learning blockchain development, looking to build in Web3 </h5>
 
 <br>
 
